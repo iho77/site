@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 
+permalink: /story/
 ---
-Manifesto.
-The idea is very simple. We make things smarter. Now we have smart cars, smart cities, smart friges, even smart clothes, etc. But many of us have a friend. A horse.
-And its hard to 
+# Story
+
+Here will be a sad story of [connected.horse][crunchbase] failed venture. 
+
+[crunchbase]:https://www.crunchbase.com/organization/connected-horse
