@@ -14,8 +14,9 @@ Activity detection
 
 1. [Validity and practical utility of accelerometry for the measurement of in-hand physical activity in horses][accel_horse]
 2. [Development of Equine Gait Recognition Algorithm][equine_gate]
-
-Patents
+3. [A Comparison of Feature Extraction Methods for the Classification of Dynamic Activities From Accelerometer Data][feature]
+   
+   Patents
  1. Mobile animal surveillance and distress monitoring [NightWatch23 US Patent N9629340][patent_nw]
  2. [Supervision System of Evolution of a horse][patent_fr]  
 
@@ -25,3 +26,4 @@ Patents
 [equine_gate]:http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8918412&fileOId=8918424
 [patent_nw]:https://patents.google.com/patent/US9629340]
 [patent_fr]:https://patents.google.com/patent/FR3049844A1/en
+[feature]:https://core.ac.uk/download/pdf/1664021.pdf
