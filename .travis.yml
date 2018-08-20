@@ -1,0 +1,25 @@
+# Install Ruby and rvm - Ruby Version Manager
+language: ruby
+rvm:
+- 2.3.3
+
+# Install Jekyll
+install:
+  - gem install jekyll
+
+# Build Jekyll blog
+script:
+  - jekyll build
+
+# Upload Jekyll blog files to Amazon S3 bucket
+deploy:
+  on:
+    branch: master
+  provider: s3
+  bucket: connected.horse 
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
+  region: eu-central-1
+  acl: public_read
+  skip_cleanup: true
+  local_dir: ./_site
