@@ -5,8 +5,9 @@ rvm:
 
 # Install Jekyll
 install:
-  - gem install bundler
   - gem install jekyll
+  - gem install bundler
+  - bundle install
 
 # Build Jekyll blog
 script:
