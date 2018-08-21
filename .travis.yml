@@ -11,7 +11,7 @@ install:
 
 # Build Jekyll blog
 script:
-  - jekyll build
+  - bundle exec jekyll build
 
 # Upload Jekyll blog files to Amazon S3 bucket
 deploy:
