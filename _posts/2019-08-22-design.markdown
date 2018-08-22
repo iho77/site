@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Sensor design"
+date:   2018-08-22 00:00:00 +0300
+categories: jekyll update
+---
+First and the most important question had to be answered at the design stage - where is the sensor should be placed on a horse?
+We have the following requirements:  
+- we want to collect as much data as it possible
+- we want to wear sensor 24x7
+- we want to wear sensor during any activity - walking, working, eating, transportation etc
+- horse acts in a very dirty environment and produces a lot of dust by themselves. We want to clear sensor encasing
+- we want to swap ammunition to which sensor attached  
+ 
+So, maybe we should attach the sensor to the saddle? Or to blanket? Or to girth? I think no. I knew only two things which almost every horse wear almost anytime. It is bridle and halter. So, the solution is rather simple. We have to have something which can be attached to bridle or halter and can be removed for charging or cleaning easily. In addition, positioning accelerometer and gyroscope on the top of the horse head give us additional advantages:  
+- the head acts as an amplifier for every movement
+- we can catch specific pose like "looking at the sky" or "looking at the stomach" during colic
+- we can measure relative head position and angle which very specific for some horse activity (eating grass, for example, can be detected only by head position)
+- we can measure and compare every hoof hit
+
+I want to sensor encasing made from some kind of durable textile-like Cordura and I want to sensor components can be detached from sensor encasing. So, with this brief introduction, I asked [Miguel H][miguel] to sketch sensor design. Here is what I got (and I think it is outstanding work). To be honest first real-life prototype looks much uglier and force to think hard about the whole conception. Where are issues - but this is a topic for a separate post. 
+<img src="/assets/0.jpg" width="600">  
+<img src="/assets/1.jpg" width="600">
+<img src="/assets/2.jpg" width="600">
+<img src="/assets/3.jpg" width="600">
+
+[miguel]:https://www.upwork.com/freelancers/~016bfa5697e387c4dd
