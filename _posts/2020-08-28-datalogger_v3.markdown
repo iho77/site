@@ -24,16 +24,18 @@ ToDo:
 - refactor LoRa base station from Arduino scetch to pure esp32-idf code
 - try InfluxDB instead of MQTT  
 - try to integrate Adafruit 9 DOF IMU with ULP (i2c and asm ...nightmare)
-- learn of right use .gitignore :) 
+- learn of right use of .gitignore :) 
 
 [Code for sensor][sensor]  
 [Code for gateway][gw]
 
 
-This version of sensor uses [LoRa library from Inteform][lora]
+This version of sensor uses [LoRa library from Inteform][lora]  
+Wareframe for use ULP for ADC readings were taken from this [post][ulp]
 
 <img src="/assets/sensorv4.jpg" width="600">  
 
 [sensor]:https://github.com/imelekhin/horsemon
 [gw]:https://github.com/imelekhin/LoRaMQTT
 [lora]:https://github.com/Inteform
+[ulp]:https://esp32.com/viewtopic.php?f=2&t=3050
