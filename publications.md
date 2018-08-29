@@ -19,7 +19,7 @@ Here is a list of publications somehow related to our problem.
 
 ## Ballistocardiography
 
-1.[SHORT-TERM HEART RATE VARIABILITY AS A GENERAL INDICATOR OF HEALTH ESTIMATED BY BALLISTOCARDIOGRAPHY USING A HYDRAULIC BED SENSOR IN ELDER][bedsensor]
+1.[SHORT-TERM HEART RATE VARIABILITY AS A GENERAL INDICATOR OF HEALTH ESTIMATED BY BALLISTOCARDIOGRAPHY USING A HYDRAULIC BED SENSOR IN ELDER][bedsensor]  
 2.[Physiological Parameter Estimation Using a Head-mounted Wearable Device][google]  - this article has a good description of algoritm of pulse and breath rate extraction from accelerometer data. It was used as a base for horse heart rate estimation research
 
 
@@ -28,7 +28,7 @@ Here is a list of publications somehow related to our problem.
 1. [A new neural network approach for seismic event detection][deepdetect] - should check of applicability to unusual activity detection during colic (paid article from IEEE)
 
 ## Patents
- 1. Mobile animal surveillance and distress monitoring [NightWatch23 US Patent N9629340][patent_nw]
+ 1. Mobile animal surveillance and distress monitoring [NightWatch24 US Patent N9629340][patent_nw]
  2. [Supervision System of Evolution of a horse][patent_fr]  
 
 [colic_nn]:https://arxiv.org/pdf/1403.4540.pdf
