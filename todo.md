@@ -5,7 +5,7 @@ permalink: /todo/
 ---
 # ToDo  
 
-##hackaton #1
+##hackaton #1  
  We have a data, we have to try to clusterize it. So, try to implement clusterization algoritm on our "paddock dataset". It is interesting to see results from batch algoritms and stream algoritms, and from algoritms with pre-defined cluster centers and without... Generally where is following activity  on dataset: walking, eating oats from ground, eating hay on ground, resting, drinking water from ground. Features can be found in feature.c file on or you can suggest your own [github][gh]. We can use sliding window of 2048 samples (64 sec). So, for each window we want to estimate horse activity (or just cluster #) based on given dataset.
  If some one want to be a sponsor for this hackaton - you are welcome :)
 
