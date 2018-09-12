@@ -19,7 +19,8 @@ Here is a list of publications somehow related to our problem.
 2. [Development of Equine Gait Recognition Algorithm][equine_gate]
 3. [A Comparison of Feature Extraction Methods for the Classification of Dynamic Activities From Accelerometer Data][feature]  
 4. [Creating a behavioural classification module for acceleration data: using a captive surrogate for difficult to observe species][surr]
-5. [A User-Adaptive Algorithm for Activity Recognition Based on K-Means Clustering, Local Outlier Factor, and Multivariate Gaussian Distribution][MGD] it looks like the problem they solve can be solved by thresholding magnitude value....But method is interesting if we want make clusterization "on board"...
+5. [A User-Adaptive Algorithm for Activity Recognition Based on K-Means Clustering, Local Outlier Factor, and Multivariate Gaussian Distribution][MGD] it looks like the problem they solve can be solved by thresholding magnitude value....But method is interesting if we want make clusterization "on board"...  
+6. [A Feature Selection-Based Framework for Human Activity Recognition Using Wearable Multimodal Sensors][fs]
    
 
 ## Ballistocardiography
@@ -50,3 +51,4 @@ Here is a list of publications somehow related to our problem.
 [surr]:http://jeb.biologists.org/content/jexbio/216/24/4501.full.pdf
 [nr]:http://numerical.recipes/
 [MGD]:http://www.mdpi.com/1424-8220/18/6/1850/pdf
+[fs]:https://pdfs.semanticscholar.org/8522/ce2bfce1ab65b133e411350478183e79fae7.pdf
