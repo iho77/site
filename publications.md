@@ -5,6 +5,9 @@ permalink: /publ/
 ---
 Here is a list of publications somehow related to our problem.
 
+## Bible :)
+1. [Numerical recipes in C][nr]  
+
 ## Animal illness prediction
 
 1. [Similarity networks for classification: a case study in the Horse Colic problem from Lluís Belanche and Jerónimo Hernández][colic_nn]
@@ -15,6 +18,8 @@ Here is a list of publications somehow related to our problem.
 1. [Validity and practical utility of accelerometry for the measurement of in-hand physical activity in horses][accel_horse]
 2. [Development of Equine Gait Recognition Algorithm][equine_gate]
 3. [A Comparison of Feature Extraction Methods for the Classification of Dynamic Activities From Accelerometer Data][feature]  
+4. [Creating a behavioural classification module for acceleration data: using a captive surrogate for difficult to observe species][surr]
+5. [A User-Adaptive Algorithm for Activity Recognition Based on K-Means Clustering, Local Outlier Factor, and Multivariate Gaussian Distribution][MGD] it looks like the problem they solve can be solved by thresholding magnitude value....But method is interesting if we want make clusterization "on board"...
    
 
 ## Ballistocardiography
@@ -25,7 +30,8 @@ Here is a list of publications somehow related to our problem.
 
 
 ## Patern recognition
-1. [A new neural network approach for seismic event detection][deepdetect] - should check of applicability to unusual activity detection during colic (paid article from IEEE)
+1. [A new neural network approach for seismic event detection][deepdetect] - should check of applicability to unusual activity detection during colic (paid article from IEEE)  
+
 
 ## Patents
  1. Mobile animal surveillance and distress monitoring [NightWatch24 US Patent N9629340][patent_nw]
@@ -41,3 +47,6 @@ Here is a list of publications somehow related to our problem.
 [deepdetect]:https://www.lanl.gov/discover/news-stories-archive/2018/August/0816-seismic-event-detection.php
 [bedsensor]:https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/57250/research.pdf?sequence=2&isAllowed=y
 [google]:https://www.media.mit.edu/publications/bioglass-physiological-parameter-estimation-using-a-head-mounted-wearable-device/
+[surr]:http://jeb.biologists.org/content/jexbio/216/24/4501.full.pdf
+[nr]:http://numerical.recipes/
+[MGD]:http://www.mdpi.com/1424-8220/18/6/1850/pdf
