@@ -12,6 +12,9 @@ Here is a list of publications somehow related to our problem.
 4. [Non-contact ECG measurement using EPIC Sensors][ECGmeasurementEPIC]
 5. [VIBRATION ANALYSIS USING A MEMS ACCELEROMETER][VAMEMS]
 
+## Bible :)
+1. [Numerical recipes in C][nr]  
+
 ## Animal illness prediction
 
 1. [Similarity networks for classification: a case study in the Horse Colic problem from Lluís Belanche and Jerónimo Hernández][NNforHorseColic]
@@ -27,6 +30,9 @@ Here is a list of publications somehow related to our problem.
 4. [Activity Recognition from Accelerometer Data][ARAD]
 5. [A Triaxial Accelerometer-Based Physical-Activity Recognition via Augmented-Signal Features and a Hierarchical Recognizer][AccelerometerActivityR]
 6. [A Comparison of Feature Extraction Methods for the Classification of Dynamic Activities From Accelerometer Data][FeatureComp]
+4. [Creating a behavioural classification module for acceleration data: using a captive surrogate for difficult to observe species][surr]
+5. [A User-Adaptive Algorithm for Activity Recognition Based on K-Means Clustering, Local Outlier Factor, and Multivariate Gaussian Distribution][MGD]   
+6. [A Feature Selection-Based Framework for Human Activity Recognition Using Wearable Multimodal Sensors][fs]
    
 
 ## Ballistocardiography
@@ -41,6 +47,7 @@ Here is a list of publications somehow related to our problem.
 1. [A new neural network approach for seismic event detection][deepdetect]
 2. [Periodicity Detection, Time-series Correlation, Burst Detection][perioddetect]
 3. [Accelerometer-Based Gesture Recognition with the iPhone][msc_thesis_marco_klingmann_iphone_gestures]
+4. [A new neural network approach for seismic event detection][deepdetect]
 
 
   
@@ -59,6 +66,7 @@ Here is a list of publications somehow related to our problem.
 4. [Frequency analysis of accelerometer measurements on trains][AccelFrAn]
 5. [FOURIER TRANSFORMS Sampling][sampling]
 
+1.   
 
 
 ## Patents
