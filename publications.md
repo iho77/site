@@ -11,9 +11,7 @@ Here is a list of publications somehow related to our problem.
 3. [HEART RATE DETECTION FROM IMPEDANCE PLETHYSMOGRAPHY BASED ON CONCEALED CAPACITIVE ELECTRODES][IMEKO-WC-2009-TC13-270]
 4. [Non-contact ECG measurement using EPIC Sensors][ECGmeasurementEPIC]
 5. [VIBRATION ANALYSIS USING A MEMS ACCELEROMETER][VAMEMS]
-
-## Bible :)
-1. [Numerical recipes in C][nr]  
+6. [Numerical recipes in C][nr]  
 
 ## Animal illness prediction
 
@@ -66,7 +64,7 @@ Here is a list of publications somehow related to our problem.
 4. [Frequency analysis of accelerometer measurements on trains][AccelFrAn]
 5. [FOURIER TRANSFORMS Sampling][sampling]
 
-1.   
+   
 
 
 ## Patents
@@ -107,6 +105,13 @@ Here is a list of publications somehow related to our problem.
 [sampling]:/assets/sampling.pdf
 [FeatureComp]:/assets/FeatureComp.pdf
 [VAMEMS]:/assets/VAMEMS.pdf
+[nr]:http://numerical.recipes/
+[surr]:http://jeb.biologists.org/content/jexbio/216/24/4501.full.pdf
+[MGD]:/assets/sensors-18-01850.pdf
+[fs]:https://pdfs.semanticscholar.org/8522/ce2bfce1ab65b133e411350478183e79fae7.pdf
+
+
+
 
 
 
