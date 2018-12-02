@@ -38,6 +38,7 @@ Here is a list of publications somehow related to our problem.
 1. [SHORT-TERM HEART RATE VARIABILITY AS A GENERAL INDICATOR OF HEALTH ESTIMATED BY BALLISTOCARDIOGRAPHY USING A HYDRAULIC BED SENSOR IN ELDER][bedsensor]
 2. [Physiological Parameter Estimation Using a Head-mounted Wearable Device][google]
 3. [Heart Rate Detection from Ballistocardiogram][HRDBallisto]
+4. [Very usefull lecture from University of WATERLOO][WAT]
 
 
 
@@ -109,6 +110,7 @@ Here is a list of publications somehow related to our problem.
 [surr]:http://jeb.biologists.org/content/jexbio/216/24/4501.full.pdf
 [MGD]:/assets/sensors-18-01850.pdf
 [fs]:https://pdfs.semanticscholar.org/8522/ce2bfce1ab65b133e411350478183e79fae7.pdf
+[WAT]:https://www.youtube.com/watch?v=q8SnkGP1XFM
 
 
 
