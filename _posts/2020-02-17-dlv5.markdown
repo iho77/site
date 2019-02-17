@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Data logger improvements"
+date:   2019-02-17 14:17:00 +0300
+categories: jekyll update
+---
+
+Made a new version of the data logger. I used a TTGO esp32-Lora module without a LED screen and MPU6050 i2c digital accelerometer\gyroscope. I can not use ULP coprocessor for now with this MPU (looks like have to rewrite driver in ulp asm, I am not as cool for now) but got better sensitivity (8g/16g) and gyroscope data. Even without ulp and deep-sleep tricks can acquire ~15 hours of data (sending every measure over wifi\udp to log host). Source code can be found here [github][src]{:target="_blank"} Written using esp32-idf framework with Eclipse as IDE
+
+<img src="/assets/dlv5.jpg" width="600">  
+
+  
+[src]:https://github.com/imelekhin/esp32-mpu6050
