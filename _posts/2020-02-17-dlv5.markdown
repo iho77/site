@@ -5,9 +5,11 @@ date:   2019-02-17 14:17:00 +0300
 categories: jekyll update
 ---
 
-Made a new version of the data logger. I used a TTGO esp32-Lora module without a LED screen and MPU6050 i2c digital accelerometer\gyroscope. I can not use ULP coprocessor for now with this MPU (looks like have to rewrite driver in ulp asm, I am not as cool for now) but got better sensitivity (8g/16g) and gyroscope data. Even without ulp and deep-sleep tricks can acquire ~15 hours of data (sending every measure over wifi\udp to log host). Source code can be found here [github][src]{:target="_blank"} Written using esp32-idf framework with Eclipse as IDE
+Made a new version of the data logger. I used a TTGO esp32-Lora module without a LED screen and MPU6050 i2c digital accelerometer\gyroscope. I can not use ULP coprocessor for now with this MPU (looks like have to rewrite driver in ulp asm, I am not as cool for now) but got better sensitivity (8g/16g) and gyroscope data. Even without ulp and deep-sleep tricks can acquire ~15 hours of data (sending every measure over wifi\udp to log host). Source code can be found here [github][src]{:target="_blank"} Written using esp32-idf framework with Eclipse as IDE.  
+Acquired data is here - [data][15hrs]. ~15 hours / 50 Hz sampling rate, time:internal-ts:ax:ay:az:gx:gy:gz:yaw:pitch:roll from MPU 6050 8g sensetivity. There is two feeding (around 16 and 21 p.m.), walking around paddock, transfer to stable and overnight stable activity. There is missing data around 19 p.m. due to WiFi failure
 
 <img src="/assets/dlv5.jpg" width="600">  
 
   
 [src]:https://github.com/imelekhin/esp32-mpu6050
+[15hrs]:/assets/50hz8hrovernight.txt.gz
